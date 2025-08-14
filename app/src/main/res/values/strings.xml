@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Memento Mori</string>
+    <string name="notification_channel_name">Memento Reminders</string>
+    <string name="notification_channel_description">Reminders to reflect on time and mortality</string>
+</resources>

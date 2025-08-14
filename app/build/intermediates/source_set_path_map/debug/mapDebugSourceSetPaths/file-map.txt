@@ -1,0 +1,67 @@
+com.mementoapp.reminders.app-jetified-ui-test-manifest-1.5.4-0 /home/able/.gradle/caches/8.14.3/transforms/036fdd2349895681a1925bc84c4da67f/transformed/jetified-ui-test-manifest-1.5.4/res
+com.mementoapp.reminders.app-jetified-annotation-experimental-1.3.0-1 /home/able/.gradle/caches/8.14.3/transforms/05ad5a48dd3374225f928925fddedb2a/transformed/jetified-annotation-experimental-1.3.0/res
+com.mementoapp.reminders.app-jetified-material3-1.1.2-2 /home/able/.gradle/caches/8.14.3/transforms/080e29a0eba854be963042e5b96d881d/transformed/jetified-material3-1.1.2/res
+com.mementoapp.reminders.app-jetified-lifecycle-viewmodel-compose-2.7.0-3 /home/able/.gradle/caches/8.14.3/transforms/09ed76308de2803bd79ff7c8d2b0e8cf/transformed/jetified-lifecycle-viewmodel-compose-2.7.0/res
+com.mementoapp.reminders.app-jetified-foundation-layout-release-4 /home/able/.gradle/caches/8.14.3/transforms/0b9e38b875e8a4cbcb516b1af84faaad/transformed/jetified-foundation-layout-release/res
+com.mementoapp.reminders.app-jetified-ui-unit-release-5 /home/able/.gradle/caches/8.14.3/transforms/0bccc4eba92015dd79ec7b3970f5fadb/transformed/jetified-ui-unit-release/res
+com.mementoapp.reminders.app-room-runtime-2.6.1-6 /home/able/.gradle/caches/8.14.3/transforms/1a7efd7e7851e0bada4a2ccfedd005b2/transformed/room-runtime-2.6.1/res
+com.mementoapp.reminders.app-jetified-ui-tooling-data-release-7 /home/able/.gradle/caches/8.14.3/transforms/1affb5767a16889e192813e3633230d7/transformed/jetified-ui-tooling-data-release/res
+com.mementoapp.reminders.app-sqlite-framework-2.4.0-8 /home/able/.gradle/caches/8.14.3/transforms/1b0453608426eb0434103f36d889d26f/transformed/sqlite-framework-2.4.0/res
+com.mementoapp.reminders.app-navigation-runtime-2.7.5-9 /home/able/.gradle/caches/8.14.3/transforms/1e9b7430912bb847b728d28b03fbd426/transformed/navigation-runtime-2.7.5/res
+com.mementoapp.reminders.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-10 /home/able/.gradle/caches/8.14.3/transforms/20cce6852b5656c59a02b72154273be2/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.mementoapp.reminders.app-jetified-profileinstaller-1.3.0-11 /home/able/.gradle/caches/8.14.3/transforms/25ad6df645c125a6fd0cb1c43a866262/transformed/jetified-profileinstaller-1.3.0/res
+com.mementoapp.reminders.app-jetified-foundation-release-12 /home/able/.gradle/caches/8.14.3/transforms/3585eba2ece0abd0673b3477c18b9f63/transformed/jetified-foundation-release/res
+com.mementoapp.reminders.app-work-runtime-ktx-2.9.0-13 /home/able/.gradle/caches/8.14.3/transforms/35d2ce10c9a3731a867ce8fd3058f547/transformed/work-runtime-ktx-2.9.0/res
+com.mementoapp.reminders.app-jetified-runtime-saveable-release-14 /home/able/.gradle/caches/8.14.3/transforms/3618dbeaf422a58880d7cc242e2e4481/transformed/jetified-runtime-saveable-release/res
+com.mementoapp.reminders.app-jetified-activity-1.8.2-15 /home/able/.gradle/caches/8.14.3/transforms/366a9bdf264e32067804b35275947708/transformed/jetified-activity-1.8.2/res
+com.mementoapp.reminders.app-jetified-material-ripple-release-16 /home/able/.gradle/caches/8.14.3/transforms/36d0f28548ebea17c8b33786c37d7290/transformed/jetified-material-ripple-release/res
+com.mementoapp.reminders.app-jetified-ui-tooling-release-17 /home/able/.gradle/caches/8.14.3/transforms/3b6d953fe9a485ff9c7049155c16a7ea/transformed/jetified-ui-tooling-release/res
+com.mementoapp.reminders.app-jetified-savedstate-ktx-1.2.1-18 /home/able/.gradle/caches/8.14.3/transforms/3bb55cc651d32d2d14c095b24c9b284b/transformed/jetified-savedstate-ktx-1.2.1/res
+com.mementoapp.reminders.app-jetified-emoji2-views-helper-1.4.0-19 /home/able/.gradle/caches/8.14.3/transforms/3c269a3a7c8b418f72acdf0088c74209/transformed/jetified-emoji2-views-helper-1.4.0/res
+com.mementoapp.reminders.app-jetified-ui-graphics-release-20 /home/able/.gradle/caches/8.14.3/transforms/516239541c7e901d48db3d8f5c9f5faf/transformed/jetified-ui-graphics-release/res
+com.mementoapp.reminders.app-jetified-emoji2-1.4.0-21 /home/able/.gradle/caches/8.14.3/transforms/52ae76289c77130abdde6569c4a4c4a1/transformed/jetified-emoji2-1.4.0/res
+com.mementoapp.reminders.app-jetified-activity-ktx-1.8.2-22 /home/able/.gradle/caches/8.14.3/transforms/58b48d0658e62ed8a2f9549ac27384e4/transformed/jetified-activity-ktx-1.8.2/res
+com.mementoapp.reminders.app-fragment-1.3.6-23 /home/able/.gradle/caches/8.14.3/transforms/58f3f3139f56016bcf97a42ece277f9c/transformed/fragment-1.3.6/res
+com.mementoapp.reminders.app-jetified-lifecycle-process-2.7.0-24 /home/able/.gradle/caches/8.14.3/transforms/5b253806ba79f40caf02283897a113f5/transformed/jetified-lifecycle-process-2.7.0/res
+com.mementoapp.reminders.app-jetified-startup-runtime-1.1.1-25 /home/able/.gradle/caches/8.14.3/transforms/5b33487ab1dca7b843000aec4ce23611/transformed/jetified-startup-runtime-1.1.1/res
+com.mementoapp.reminders.app-jetified-animation-core-release-26 /home/able/.gradle/caches/8.14.3/transforms/5dacfa1b6441ea75d832f3fa1014f135/transformed/jetified-animation-core-release/res
+com.mementoapp.reminders.app-jetified-ui-text-release-27 /home/able/.gradle/caches/8.14.3/transforms/5eae46dcc9eb13c5d15028be4f8e8193/transformed/jetified-ui-text-release/res
+com.mementoapp.reminders.app-jetified-room-ktx-2.6.1-28 /home/able/.gradle/caches/8.14.3/transforms/5ec44e2f2227624906d563eee860b92b/transformed/jetified-room-ktx-2.6.1/res
+com.mementoapp.reminders.app-jetified-animation-release-29 /home/able/.gradle/caches/8.14.3/transforms/5ef2ec643a6a4469d01d16358d78f23d/transformed/jetified-animation-release/res
+com.mementoapp.reminders.app-jetified-activity-compose-1.8.2-30 /home/able/.gradle/caches/8.14.3/transforms/630100f00e6935f21b11ff9a34941e27/transformed/jetified-activity-compose-1.8.2/res
+com.mementoapp.reminders.app-jetified-lifecycle-runtime-ktx-2.7.0-31 /home/able/.gradle/caches/8.14.3/transforms/66ab7f7b9ed9c82c5bf8f86d62840445/transformed/jetified-lifecycle-runtime-ktx-2.7.0/res
+com.mementoapp.reminders.app-core-runtime-2.2.0-32 /home/able/.gradle/caches/8.14.3/transforms/6a32a7d38cc04eca6298843f12357a6d/transformed/core-runtime-2.2.0/res
+com.mementoapp.reminders.app-navigation-common-ktx-2.7.5-33 /home/able/.gradle/caches/8.14.3/transforms/6b08f0c4b17ec6b00de8f81e4f437a05/transformed/navigation-common-ktx-2.7.5/res
+com.mementoapp.reminders.app-jetified-lifecycle-livedata-core-ktx-2.7.0-34 /home/able/.gradle/caches/8.14.3/transforms/71d3f38c103a700d0d5c57504659538a/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.mementoapp.reminders.app-jetified-datastore-1.0.0-35 /home/able/.gradle/caches/8.14.3/transforms/72f12f49b1a5f4edf9df17e7f2a102c3/transformed/jetified-datastore-1.0.0/res
+com.mementoapp.reminders.app-jetified-appcompat-resources-1.6.1-36 /home/able/.gradle/caches/8.14.3/transforms/74348cb25c2f032ddd68c0e3a25b7153/transformed/jetified-appcompat-resources-1.6.1/res
+com.mementoapp.reminders.app-navigation-runtime-ktx-2.7.5-37 /home/able/.gradle/caches/8.14.3/transforms/846eaf527c64fd7ef11d0ff74017788b/transformed/navigation-runtime-ktx-2.7.5/res
+com.mementoapp.reminders.app-jetified-ui-release-38 /home/able/.gradle/caches/8.14.3/transforms/85b022ae7a593f645d420c90affd7b8a/transformed/jetified-ui-release/res
+com.mementoapp.reminders.app-jetified-ui-tooling-preview-release-39 /home/able/.gradle/caches/8.14.3/transforms/8e034b0800224c5ea5ec4b01aeea9872/transformed/jetified-ui-tooling-preview-release/res
+com.mementoapp.reminders.app-jetified-ui-util-release-40 /home/able/.gradle/caches/8.14.3/transforms/8fc047777932e0bc9748cd92ebfddfc5/transformed/jetified-ui-util-release/res
+com.mementoapp.reminders.app-navigation-common-2.7.5-41 /home/able/.gradle/caches/8.14.3/transforms/9701c880ff165a447f36d283ddf56255/transformed/navigation-common-2.7.5/res
+com.mementoapp.reminders.app-jetified-datastore-preferences-1.0.0-42 /home/able/.gradle/caches/8.14.3/transforms/98c13aec0450159765645997c229eea4/transformed/jetified-datastore-preferences-1.0.0/res
+com.mementoapp.reminders.app-jetified-core-ktx-1.12.0-43 /home/able/.gradle/caches/8.14.3/transforms/99bb401dda65f22b4467f3c4d3c44a5c/transformed/jetified-core-ktx-1.12.0/res
+com.mementoapp.reminders.app-lifecycle-viewmodel-2.7.0-44 /home/able/.gradle/caches/8.14.3/transforms/a25217dcd002e5a8b12b7159a2f7d061/transformed/lifecycle-viewmodel-2.7.0/res
+com.mementoapp.reminders.app-jetified-lifecycle-viewmodel-ktx-2.7.0-45 /home/able/.gradle/caches/8.14.3/transforms/aa6f6179082643d5ba9d55a45527509f/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/res
+com.mementoapp.reminders.app-jetified-ui-geometry-release-46 /home/able/.gradle/caches/8.14.3/transforms/ab1bd76fb7e894ca1b05f74f9a9aca1f/transformed/jetified-ui-geometry-release/res
+com.mementoapp.reminders.app-jetified-navigation-compose-2.7.5-47 /home/able/.gradle/caches/8.14.3/transforms/afc555a4a2cbd73d9f46981a169a02a9/transformed/jetified-navigation-compose-2.7.5/res
+com.mementoapp.reminders.app-jetified-material-icons-core-release-48 /home/able/.gradle/caches/8.14.3/transforms/ba5bb9099989ddcdcdc924753bb9f38c/transformed/jetified-material-icons-core-release/res
+com.mementoapp.reminders.app-jetified-material-release-49 /home/able/.gradle/caches/8.14.3/transforms/bb5a6d0f3215629c4e10aa8312d7f150/transformed/jetified-material-release/res
+com.mementoapp.reminders.app-lifecycle-livedata-2.7.0-50 /home/able/.gradle/caches/8.14.3/transforms/c1ee7805e70d20cf3fa3b6d136829dd6/transformed/lifecycle-livedata-2.7.0/res
+com.mementoapp.reminders.app-jetified-lifecycle-service-2.7.0-51 /home/able/.gradle/caches/8.14.3/transforms/c1fa4cc7e36055e048d0e4619d925298/transformed/jetified-lifecycle-service-2.7.0/res
+com.mementoapp.reminders.app-jetified-savedstate-1.2.1-52 /home/able/.gradle/caches/8.14.3/transforms/c88f254006359f7c08dc00d3feb0a057/transformed/jetified-savedstate-1.2.1/res
+com.mementoapp.reminders.app-work-runtime-2.9.0-53 /home/able/.gradle/caches/8.14.3/transforms/c8d08c575a14ccb1cf037b9353d78bc7/transformed/work-runtime-2.9.0/res
+com.mementoapp.reminders.app-appcompat-1.6.1-54 /home/able/.gradle/caches/8.14.3/transforms/cf970081d930e8b7b2f631a17a52a787/transformed/appcompat-1.6.1/res
+com.mementoapp.reminders.app-sqlite-2.4.0-55 /home/able/.gradle/caches/8.14.3/transforms/d2a7e9ff5896d9224f6ac1931b9289b3/transformed/sqlite-2.4.0/res
+com.mementoapp.reminders.app-jetified-customview-poolingcontainer-1.0.0-56 /home/able/.gradle/caches/8.14.3/transforms/dcdba70f845d81302c0ce3438d99bc54/transformed/jetified-customview-poolingcontainer-1.0.0/res
+com.mementoapp.reminders.app-core-1.12.0-57 /home/able/.gradle/caches/8.14.3/transforms/ee436f3345b34fec9e7d0115de392aec/transformed/core-1.12.0/res
+com.mementoapp.reminders.app-lifecycle-runtime-2.7.0-58 /home/able/.gradle/caches/8.14.3/transforms/ef7d62de0f35ce18cd7251bfb6dccfa4/transformed/lifecycle-runtime-2.7.0/res
+com.mementoapp.reminders.app-jetified-runtime-release-59 /home/able/.gradle/caches/8.14.3/transforms/f2cf000c6b7ea2d71bd4d654f68ee9e0/transformed/jetified-runtime-release/res
+com.mementoapp.reminders.app-lifecycle-livedata-core-2.7.0-60 /home/able/.gradle/caches/8.14.3/transforms/f3a9509558078be0bd400aa0f68c2615/transformed/lifecycle-livedata-core-2.7.0/res
+com.mementoapp.reminders.app-resValues-61 /home/able/Memento Mori/app/build/generated/res/resValues/debug
+com.mementoapp.reminders.app-packageDebugResources-62 /home/able/Memento Mori/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.mementoapp.reminders.app-packageDebugResources-63 /home/able/Memento Mori/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.mementoapp.reminders.app-debug-64 /home/able/Memento Mori/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.mementoapp.reminders.app-debug-65 /home/able/Memento Mori/app/src/debug/res
+com.mementoapp.reminders.app-main-66 /home/able/Memento Mori/app/src/main/res
