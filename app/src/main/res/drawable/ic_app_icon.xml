@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- Background circle -->
+    <path
+        android:fillColor="#8B5A3C"
+        android:pathData="M24,24m-24,0a24,24 0,1 1,48 0a24,24 0,1 1,-48 0"/>
+    
+    <!-- Hourglass icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,12v6h0.01L18,18.01 22,22l-4,4 0.01,0.01L18,26.01L18,32h12v-5.99h-0.01L30,26.01 26,22l4,-4 -0.01,-0.01L30,17.99L30,12L18,12zM28,26.5L28,30L20,30v-3.5l4,-4 4,4zM24,21.5l-4,-4L20,14h8v3.5l-4,4z"/>
+</vector>

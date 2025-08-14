@@ -1,5 +1,6 @@
 R_DEF: Internal format may change without notice
 local
+drawable ic_app_icon
 drawable ic_check
 drawable ic_hourglass
 drawable ic_launcher_background

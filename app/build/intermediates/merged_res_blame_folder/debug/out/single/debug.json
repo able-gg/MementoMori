@@ -8,6 +8,10 @@
         "source": "com.mementoapp.reminders.app-main-67:/drawable/ic_launcher_foreground.xml"
     },
     {
+        "merged": "com.mementoapp.reminders.app-merged_res-65:/drawable_ic_app_icon.xml.flat",
+        "source": "com.mementoapp.reminders.app-main-67:/drawable/ic_app_icon.xml"
+    },
+    {
         "merged": "com.mementoapp.reminders.app-merged_res-65:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "com.mementoapp.reminders.app-main-67:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },

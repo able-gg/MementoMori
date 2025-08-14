@@ -4,7 +4,7 @@
             "outputFile": "com.mementoapp.reminders.app-mergeDebugResources-63:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/home/able/.gradle/caches/8.13/transforms/ebfcdd7651f2c81c0841a905e41b4c42/transformed/work-runtime-2.9.0/res/values-v23/values-v23.xml",
+                    "source": "/home/able/.gradle/caches/8.14.3/transforms/cbab4546d47214bcf26f4db6f3d633b3/transformed/work-runtime-2.9.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/able/.gradle/caches/8.13/transforms/f82c6ab2de18ec52a7df280ecebbdd56/transformed/appcompat-1.6.1/res/values-v23/values-v23.xml",
+                    "source": "/home/able/.gradle/caches/8.14.3/transforms/1d4a3829af34f378052744890d271c1d/transformed/appcompat-1.6.1/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

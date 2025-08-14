@@ -4,22 +4,17 @@ import android.app.AlarmManager
 import android.app.PendingIntent
 import android.content.Context
 import android.content.Intent
-import com.mementoapp.reminders.data.preferences.UserPreferences
-import kotlinx.coroutines.flow.first
 import java.util.*
 import kotlin.random.Random
 
 class ReminderScheduler(
-    private val context: Context,
-    private val userPreferences: UserPreferences
+    private val context: Context
 ) {
     
     private val alarmManager = context.getSystemService(Context.ALARM_SERVICE) as AlarmManager
     
-    suspend fun scheduleNextReminder() {
-        val settings = userPreferences.getReminderSettings().first()
-        if (!settings.isEnabled) return
-        
+    fun scheduleNextReminder() {
+        val settings = ReminderSettings() // Use default settings
         val nextReminderTime = calculateNextReminderTime(settings)
         
         val intent = Intent(context, NotificationReceiver::class.java).apply {
@@ -36,6 +31,41 @@ class ReminderScheduler(
         alarmManager.setExactAndAllowWhileIdle(
             AlarmManager.RTC_WAKEUP,
             nextReminderTime,
+            pendingIntent
+        )
+        
+        // Also schedule daily journal prompt
+        scheduleJournalPrompt()
+    }
+    
+    fun scheduleJournalPrompt() {
+        val calendar = Calendar.getInstance().apply {
+            set(Calendar.HOUR_OF_DAY, 21) // 9 PM
+            set(Calendar.MINUTE, 0)
+            set(Calendar.SECOND, 0)
+            set(Calendar.MILLISECOND, 0)
+            
+            // If it's already past 9 PM today, schedule for tomorrow
+            if (timeInMillis <= System.currentTimeMillis()) {
+                add(Calendar.DAY_OF_MONTH, 1)
+            }
+        }
+        
+        val intent = Intent(context, NotificationReceiver::class.java).apply {
+            action = NotificationReceiver.ACTION_SEND_JOURNAL_PROMPT
+        }
+        
+        val pendingIntent = PendingIntent.getBroadcast(
+            context,
+            JOURNAL_REQUEST_CODE,
+            intent,
+            PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
+        )
+        
+        alarmManager.setRepeating(
+            AlarmManager.RTC_WAKEUP,
+            calendar.timeInMillis,
+            AlarmManager.INTERVAL_DAY,
             pendingIntent
         )
     }
@@ -83,6 +113,7 @@ class ReminderScheduler(
     
     companion object {
         private const val REMINDER_REQUEST_CODE = 1001
+        private const val JOURNAL_REQUEST_CODE = 1002
     }
 }
 

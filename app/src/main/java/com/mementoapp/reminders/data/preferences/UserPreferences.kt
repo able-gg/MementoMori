@@ -4,7 +4,7 @@ import android.content.Context
 import androidx.datastore.core.DataStore
 import androidx.datastore.preferences.core.*
 import androidx.datastore.preferences.preferencesDataStore
-import com.mementoapp.reminders.notifications.ReminderSettings
+// Simplified preferences
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 
@@ -20,25 +20,7 @@ class UserPreferences(private val context: Context) {
         val FIRST_LAUNCH = booleanPreferencesKey("first_launch")
     }
     
-    fun getReminderSettings(): Flow<ReminderSettings> {
-        return context.dataStore.data.map { preferences ->
-            ReminderSettings(
-                isEnabled = preferences[PreferencesKeys.REMINDERS_ENABLED] ?: true,
-                startHour = preferences[PreferencesKeys.START_HOUR] ?: 9,
-                endHour = preferences[PreferencesKeys.END_HOUR] ?: 21,
-                skipDayProbability = preferences[PreferencesKeys.SKIP_DAY_PROBABILITY] ?: 0.2f
-            )
-        }
-    }
-    
-    suspend fun updateReminderSettings(settings: ReminderSettings) {
-        context.dataStore.edit { preferences ->
-            preferences[PreferencesKeys.REMINDERS_ENABLED] = settings.isEnabled
-            preferences[PreferencesKeys.START_HOUR] = settings.startHour
-            preferences[PreferencesKeys.END_HOUR] = settings.endHour
-            preferences[PreferencesKeys.SKIP_DAY_PROBABILITY] = settings.skipDayProbability
-        }
-    }
+    // Simplified - removed complex settings for now
     
     fun isFirstLaunch(): Flow<Boolean> {
         return context.dataStore.data.map { preferences ->
